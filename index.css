@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
+
+.centre {
+  margin-top: 30%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+input {
+  width: 500px;
+  height: 40px;
+  margin-bottom: 10px;
+  margin-top: 0%;
+  border-radius: 50px;
+  border: 1px solid lightgrey;
+  text-align: left;
+}
+
+button {
+  border: none;
+  background-color: lightgray;
+  padding: 10px;
+  margin-right: 4px;
+  border-radius: 5px;
+}
